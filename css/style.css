@@ -1,0 +1,25 @@
+table {
+  margin: 0 auto;
+  width: 100%;
+  border: outset 5px #000000;
+  border-collapse: collapse;
+}
+
+th {
+  border: solid 2px #000000;
+}
+
+.lunch_text {
+  font-size: x-large;
+  font-weight: bolder;
+}
+
+tr {
+  height: 60px;
+}
+
+td {
+  text-align: center;
+  border: solid 2px#000000;
+  border-collapse: collapse;
+}
